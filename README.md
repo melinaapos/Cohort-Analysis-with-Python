@@ -2,7 +2,11 @@
 
 ### Overview
 
-This project explores cohort analysis techniques using Python, to analyze customer behavior over time. Cohort analysis is a powerful tool for understanding customer retention, engagement and other key metrics in various industries, such as e-commerce, Saas and marketing.
+This project explores cohort analysis techniques using Python, to analyze customer behavior over time. Cohort analysis is a powerful tool that helps businesses gain insights into customer retention, engagement and other key metrics in various industries, such as e-commerce, Saas and marketing.
+
+## Requirements
+
+This project is developed using Python version 3.7.4. Make sure you have Python 3.7.4 or a compatible version installed to run the code successfully.
 
 ### Dataset
 
